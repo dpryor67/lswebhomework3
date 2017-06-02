@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Dana
 
-I like to:
+I like to: learn things!
 
-I'm learning:
+I'm learning: git and github.
 
 ```
 
